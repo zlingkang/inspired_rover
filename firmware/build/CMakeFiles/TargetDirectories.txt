@@ -1,0 +1,8 @@
+/home/autolab/lk_projects/inspired_rover/firmware/build/CMakeFiles/inspired_rover.dir
+/home/autolab/lk_projects/inspired_rover/firmware/build/CMakeFiles/inspired_rover-serial.dir
+/home/autolab/lk_projects/inspired_rover/firmware/build/CMakeFiles/inspired_rover-size.dir
+/home/autolab/lk_projects/inspired_rover/firmware/build/CMakeFiles/inspired_rover-upload.dir
+/home/autolab/lk_projects/inspired_rover/firmware/build/CMakeFiles/leonardo_CORE.dir
+/home/autolab/lk_projects/inspired_rover/firmware/build/CMakeFiles/leonardo_PID_v1.dir
+/home/autolab/lk_projects/inspired_rover/firmware/build/CMakeFiles/leonardo_Thread.dir
+/home/autolab/lk_projects/inspired_rover/firmware/build/CMakeFiles/upload.dir

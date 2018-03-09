@@ -1,0 +1,1 @@
+/usr/bin/avr-g++   -g -Os       -mcall-prologues -ffunction-sections -fdata-sections -fno-exceptions  -Wl,--gc-sections -lm -mmcu=atmega32u4  CMakeFiles/inspired_rover.dir/inspired_rover.cpp.obj  -o inspired_rover.elf  -L/home/autolab/Arduino/libraries  libleonardo_PID_v1.a libleonardo_Thread.a libleonardo_CORE.a -lc -lm 

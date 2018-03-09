@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/autolab/Arduino/libraries/PID_v1/PID_v1.cpp
+Arduino.h
+/home/autolab/Arduino/libraries/PID_v1/Arduino.h
+WProgram.h
+/home/autolab/Arduino/libraries/PID_v1/WProgram.h
+PID_v1.h
+-
+

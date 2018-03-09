@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/autolab/lk_projects/inspired_rover/firmware/inspired_rover.cpp
+Arduino.h
+-
+PID_v1.h
+-
+Thread.h
+-
+ThreadController.h
+-
+

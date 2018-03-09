@@ -1,0 +1,2 @@
+/usr/bin/avr-ar cr libleonardo_Thread.a  CMakeFiles/leonardo_Thread.dir/home/autolab/Arduino/libraries/Thread/Thread.cpp.obj CMakeFiles/leonardo_Thread.dir/home/autolab/Arduino/libraries/Thread/ThreadController.cpp.obj
+/usr/bin/avr-ranlib libleonardo_Thread.a

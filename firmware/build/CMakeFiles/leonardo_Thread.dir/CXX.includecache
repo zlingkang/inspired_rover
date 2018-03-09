@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/autolab/Arduino/libraries/Thread/Thread.cpp
+Thread.h
+/home/autolab/Arduino/libraries/Thread/Thread.h
+
+/home/autolab/Arduino/libraries/Thread/Thread.h
+Arduino.h
+-
+WProgram.h
+-
+inttypes.h
+-
+
+/home/autolab/Arduino/libraries/Thread/ThreadController.cpp
+Thread.h
+/home/autolab/Arduino/libraries/Thread/Thread.h
+ThreadController.h
+/home/autolab/Arduino/libraries/Thread/ThreadController.h
+
+/home/autolab/Arduino/libraries/Thread/ThreadController.h
+Thread.h
+/home/autolab/Arduino/libraries/Thread/Thread.h
+inttypes.h
+/home/autolab/Arduino/libraries/Thread/inttypes.h
+

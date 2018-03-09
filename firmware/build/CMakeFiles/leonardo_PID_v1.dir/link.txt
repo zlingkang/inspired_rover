@@ -1,0 +1,2 @@
+/usr/bin/avr-ar cr libleonardo_PID_v1.a  CMakeFiles/leonardo_PID_v1.dir/home/autolab/Arduino/libraries/PID_v1/PID_v1.cpp.obj
+/usr/bin/avr-ranlib libleonardo_PID_v1.a
